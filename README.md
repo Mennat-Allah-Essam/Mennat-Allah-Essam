@@ -18,15 +18,14 @@
 ### 📂 Featured Projects
 | Project | Tools | Link |
 |---------|-------|------|
-| North America Retail Supply Chain Analytics | Power BI, SQL, Excel, Tableau | [[View →](https://github.com/Mennat-Allah-Essam/supply-chain-analytics) |
-| Traffic Accident Analysis | Excel, PivotTables | [View →](https://github.com/YOUR-USERNAME/accident-analysis) |
-| Sales Performance Dashboard | Power BI | [View →](https://github.com/YOUR-USERNAME/sales-dashboard) |
+| North America Retail Supply Chain Analytics | Power BI · SQL · Excel · Tableau | [View →](https://github.com/Mennat-Allah-Essam/supply-chain-analytics) |
+| Traffic Accident Analysis | Excel · PivotTables | [View →](https://github.com/Mennat-Allah-Essam/accident-analysis-excel) |
+| Sales Performance Dashboard | Power BI | [View →](https://github.com/Mennat-Allah-Essam/sales-dashboard-powerbi) |
 
 ---
 
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mennat-allah-essam)
-
 <!--
 **Mennat-Allah-Essam/Mennat-Allah-Essam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
