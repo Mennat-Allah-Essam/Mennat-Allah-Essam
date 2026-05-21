@@ -18,7 +18,7 @@
 ### 📂 Featured Projects
 | Project | Tools | Link |
 |---------|-------|------|
-| North America Retail Supply Chain Analytics | Power BI, SQL, Excel, Tableau | [View →](https://github.com/YOUR-USERNAME/supply-chain-analytics) |
+| North America Retail Supply Chain Analytics | Power BI, SQL, Excel, Tableau | [[View →](https://github.com/Mennat-Allah-Essam/supply-chain-analytics) |
 | Traffic Accident Analysis | Excel, PivotTables | [View →](https://github.com/YOUR-USERNAME/accident-analysis) |
 | Sales Performance Dashboard | Power BI | [View →](https://github.com/YOUR-USERNAME/sales-dashboard) |
 
