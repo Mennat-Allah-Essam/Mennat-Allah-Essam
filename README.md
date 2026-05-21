@@ -25,7 +25,7 @@
 ---
 
 ### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mennat-allah-essam)## Hi there 👋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mennat-allah-essam)
 
 <!--
 **Mennat-Allah-Essam/Mennat-Allah-Essam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
